@@ -14,3 +14,6 @@ Then it responce with the code then i ran it on the VS Code and after that i cli
 Firstly I gave the prompt to Claude that "Generate the good webpage just like the in the pic that ive uploaded and it must be consist of HTML only dont include the CSS in it and remember it must be same as i provided"
 
 Then it responses with the code and its first look was good because it was of 200+ lines and when i ran it on the VS Code my guess was right it was a very great webpage and then i pushed it on my github.
+
+
+YouTube Video (AI HTML): https://youtu.be/lNjWz7IcTak

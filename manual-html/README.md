@@ -20,3 +20,6 @@ Then i added the image but i dont know how to adjust that on the page and again 
 ## Problem
 
 I dont know how to add the borders on the form and when i asked AI how to add then it told me that it could be added by the CSS so i did not do that because we've not started the CSS yet.
+
+
+YouTube Video (Manual HTML): https://youtu.be/KzK_4rXRl8U
